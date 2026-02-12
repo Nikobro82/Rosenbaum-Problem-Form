@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url("Images/btimage.png");
+    background-image: url("./Images/btimage.png");
     color:goldenrod;
     background-size: 25%;
 }
@@ -32,5 +32,6 @@ body {
     border: 5px solid gold;
     opacity: 1.0;
 }
+
 
 
